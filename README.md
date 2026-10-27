@@ -84,7 +84,3 @@ Authenticated routes expect `Authorization: Bearer <token>`. Admin routes reject
 5. Add a new maker listing and show it in the collection.
 
 Use the demo curator credentials configured in `.env` for the walkthrough. Add the public GitHub, deployed app, and demo-video URLs here after publishing.
-
-## Submission
-
-The project guidelines list the end-term deadline as **27 October 2026, 11:59 PM IST**. Final submission is through the official form: https://forms.gle/sBy4sfqyiRG2Zpom9.
